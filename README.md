@@ -1,5 +1,5 @@
 # Task
-Seq2seq transformer from scratch for question answering task.
+Seq2seq transformer from scratch for generative question answering (QA) task.
 
 # Dataset
 Using Science Questions Dataset (SciQ) from Hugging Face.
